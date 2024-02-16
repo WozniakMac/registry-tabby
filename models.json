@@ -115,5 +115,16 @@
       "https://huggingface.co/TheBloke/Llama-2-7B-GGUF/resolve/main/llama-2-7b.Q8_0.gguf"
     ],
     "sha256": "f1415d117f94261fd9869ac5dabd98b3dc36648cfb7c6d84e5b473aca74ab64d"
+  },
+  {
+    "name": "Llama-2-7b-hf-v2",
+    "license_name": "Llama 2",
+    "license_url": "https://ai.meta.com/resources/models-and-libraries/llama-downloads/",
+    "prompt_template": "{prefix}",
+    "provider_url": "https://huggingface.co/TheBloke/Llama-2-7B-GGUF",
+    "urls": [
+      "https://huggingface.co/TheBloke/Llama-2-7B-GGUF/resolve/main/llama-2-7b.Q8_0.gguf"
+    ],
+    "sha256": "f1415d117f94261fd9869ac5dabd98b3dc36648cfb7c6d84e5b473aca74ab64d"
   }
 ]
