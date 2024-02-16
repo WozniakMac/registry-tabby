@@ -104,5 +104,16 @@
       "https://huggingface.co/TheBloke/deepseek-coder-6.7B-base-GGUF/resolve/main/deepseek-coder-6.7b-base.Q8_0.gguf"
     ],
     "sha256": "a2f82242ac5e465037cbf1ed754f04f0be044ee196e1589905f9e4dcd0e6559d"
+  },
+  {
+    "name": "Llama-2-7b-hf",
+    "license_name": "Llama 2",
+    "license_url": "https://ai.meta.com/resources/models-and-libraries/llama-downloads/",
+    "prompt_template": "{prefix}",
+    "provider_url": "https://huggingface.co/TheBloke/Llama-2-7B-GGUF",
+    "urls": [
+      "https://huggingface.co/TheBloke/Llama-2-7B-GGUF/blob/main/llama-2-7b.Q8_0.gguf"
+    ],
+    "sha256": "f1415d117f94261fd9869ac5dabd98b3dc36648cfb7c6d84e5b473aca74ab64d"
   }
 ]
